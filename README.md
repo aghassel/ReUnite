@@ -74,7 +74,7 @@ Our website allows potential sponsors to apply for our program. It vets the pote
 The stakeholders in this project are refugees, international refugee support organizations, countries housing refugees, and sponsors for refugees. The ease of use of the software and the website as well as the transparency will allow people to trust the data. Our goal is to partner with different organizations to make the relocation of the refugees faster and easier for all. 
 
 <p align="center">  
-<img src = "/Images/marketing strategy.png" width="604" height="280">   
+<img src = "/Images/marketing_strategy.png" width="604" height="280">   
  </p>
  
 <p align="right">(<a href="#top">back to top</a>)</p>
