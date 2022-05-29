@@ -36,7 +36,7 @@ At ReUnite we are aiming to make the transition into a new country as easy as po
 
 A more versatile interface for both users will encourage more people to come to the program. Our software aims to reduce the time taken to find a sponsor as well as create a system that finds the best match for the families based on their preferences and needs.
 
-**The main goals of ReUnite are Verification, Accessible Resources, and Finding Homes for refugees in need.**
+<h3 align="center">The main goals of ReUnite are verification, accessible resources, and finding homes for refugees-in-need.</h3>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
