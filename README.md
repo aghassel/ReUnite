@@ -11,12 +11,12 @@
   <ol>
     <li><a href="#mission-statement">Mission Statement</a></li>
     <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#verification">Verification</a></li>
     <li><a href="#how-it-works">How It Works</a></li>
+    <li><a href="#verification">Verification</a></li>
     <li><a href="#get-resources">Get Resources</a></li>
     <li><a href="#find-a-home">Find a Home</a></li>
     <li><a href="#marketing-strategystakeholders">Marketing Strategy/Stakeholders</a></li>
-    <li><a href="#next-steps-in-the-future">Next Steps in the Future</a></li>
+    <li><a href="#next-steps-for-the-future">Next Steps for the Future</a></li>
   </ol>
 </details>
 
@@ -41,8 +41,8 @@ A more versatile interface for both users will encourage more people to come to 
 
 ## How It Works
 
-+ ReUnites works by using Flutter and Android Studio for the front-end development in order to deliver a cross-platform app that is available to all users. Currently, Figma is used as the UX prototyping software. The Python backend would be incorporated with databases such as Interpol for instance that compares inputted user data such as name, date of birth, relatives to verify refugee information. 
-+ An additional facial recognition tool is implemented via the Azure Face API to verify visual data inputted via the camera to the database data to search for a match. The Azure Face API uses a Face-to-Face verification module that returns a score of 0.5 or less if it considers the two images belonging to the same person (the lower the score, the higher the accuracy). Lastly, we have created a smart contract that outlines a clear set of pre-programmed guidelines via the blockchain to connect refugees to sponsor families.
++ ReUnites works by using Flutter and Android Studio for the front-end development in order to deliver a cross-platform app that is available to all users. Currently, Figma is used as the UX prototyping software. The Python backend would be incorporated with databases such as Interpol for instance that compares inputted user data such as name, date of birth, and relatives to verify refugee information. 
++ An additional facial recognition tool is implemented via the Azure Face API to verify visual data inputted via the camera to the database data to search for a match. The Azure Face API uses a Face-to-Face verification module that returns a score of 0.5 or less if it considers the two images to belong to the same person (the lower the score, the higher the accuracy). Lastly, we have created a smart contract that outlines a clear set of pre-programmed guidelines via the blockchain to connect refugees to sponsor families.
 
 <p align="center">  
 <img src = "/Images/diagram.png" width="853" height="480">   
