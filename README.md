@@ -67,10 +67,11 @@ Our website allows potential sponsors to apply for our program. It vets the pote
 <img src = "/Images/findahome.png" width="318" height="400">   
  </p>
 Our system allows for a smoother transition with sponsor families and allows refugees to be reinstalled sooner, reducing the need for permanent refugee settlements. In addition, the finalized contracts that are being used are encrypted Smart Contracts via the blockchain that allow for a smooth and easy agreement that is accessible to all and easy to understand.
+<br />
 
 User Experience (Front-End) | Solidity (Back-End)
 :-------------------------:|:-------------------------:
-![](/Images/SC_frontEnd.png)  |  ![](/Images/SC_backEnd.png)
+![](/Images/SC_frontEnd.png)  |  ![](/Images/SC_backEnd2.png)
  
 <p align="right">(<a href="#top">back to top</a>)</p>
  
