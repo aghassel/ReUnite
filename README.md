@@ -87,6 +87,17 @@ The stakeholders in this project are refugees, international refugee support org
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## How It Works
+
++ ReUnites works by using Flutter and Android Studio for the front-end development in order to deliver a cross-platform app that is available to all users. Currently, Figma is used as the UX prototyping software. The Python backend would be incorporated with databases such as Interpol for instance that compares inputted user data such as name, date of birth, relatives to verify refugee information. 
++ An additional facial recognition tool is implemented via the Azure Face API to verify visual data inputted via the camera to the database data to search for a match. The Azure Face API uses a Face-to-Face verification module that returns a score of 0.5 or less if it considers the two images belonging to the same person (the lower the score, the higher the accuracy). Lastly, we have created a smart contract that outlines a clear set of pre-programmed guidelines via the blockchain to connect refugees to sponsor families.
+
+<p align="center">  
+<img src = "/Images/diagram.png" width="640" height="360">   
+ </p>
+ 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Next Steps in the Future 
 
 >	After developing a UI using HTML and CSS for the website, the next steps would be partnering with NGOs, international organizations, and governments to be able to cooperate with them and use their database. The system can further be used to also help rescue victims of earthquakes and other natural disasters displaced.
