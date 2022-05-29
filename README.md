@@ -42,9 +42,13 @@ A more versatile interface for both users will encourage more people to come to 
 
 ## Verification
 
-> When refugees are first admitted they get a facial scan, and fingerprint scan and all the information that they are willing to give is collected to make a profile. The reliability of the facial recognition will be ensured by changing the background to increase the contrast when taking pictures with people with darker skin pigmentation. At Reunite, Equity, Diverisity, and Inclusivness is our CORE values, so we will do everything in our power to insure all refugees that rely on us can recieve any aid they need.  
+> When refugees are first admitted they get a facial scan, and fingerprint scan and all the information that they are willing to give is collected to make a profile. The reliability of the facial recognition will be ensured by changing the background to increase the contrast when taking pictures with people with darker skin pigmentation. At ReUnite, Equity, Diversity, and Inclusivness is our CORE values, so we will do everything in our power to insure all refugees that rely on us can recieve any aid they need.  
 
-> The Facial recognition software implements the Microsoft Azure Face API that delivers a state-of-the-art, low friction classification model. The Face API is highly secured and does not store any of the user data. It relies on enterprise-grade security and privacy applied to both the data and trained model. The facial data is compared with the government’s citizen image database, which is protected by external privacy measures. 
+Facial Recognition Matching (Front-End) | Azure Face-to-Face API (Back-End)
+:-------------------------:|:-------------------------:
+![](/Images/faceAPIFrontEnd.png)  |  ![](/Images/faceAPIBackEnd.png)
+
+> The Facial recognition software implements the Microsoft Azure Face API that delivers a state-of-the-art, low friction classification model. The Face API is highly secured and does not store any of the user data. It relies on enterprise-grade security and privacy applied to both the data and trained model. The facial data is compared with the government’s citizen image database, which is protected by external privacy measures.
 
 >	Once a profile is formed for the individual or family, they are put into multiple organizations in order to find to go thorough databases and find potential family members. Uses international databases such as Interpol to find and connected families based in different places or even in different refugee camps. There is no official processing time for OYW applications, and it can often take more than a year for the family members to arrive. The family members coming through OYW will have to complete an IMM 6000 package similar to what the principal applicant completed to come to Canada. This process is meant to make the process more efficient and reduce the time taken for family reunification.
 
