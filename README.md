@@ -1,3 +1,5 @@
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZ5JQxO1V8ishtjf8JptCs9%2Ffront-end---hack-the-globe%3Fnode-id%3D10%253A13%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D10%253A13" allowfullscreen></iframe> 
+
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 <div align="center">
@@ -24,8 +26,7 @@
 <!-- MISSION STATEMENT -->
 ## Mission Statement
 
-
-At ReUnite wish to create a sustainable network that provides resources needed to refugees while optimizing resources, money, and quality of human life. ReUnite uses AI recognition software to verify refugees when they reach a camp so that we can use an extensive database to help them find their families, get resources catered to them, and find new homes. As refugees relocate smart contracts via Ethereum will be used to create easy-to-understand, translatable, contracts that refugee sponsors and refugees can fully understand.  We wish to create an optimized cycle where the most lives are saved, and the right resources are given to those in need. 
+At ReUnite, we wish to create a sustainable network that provides resources needed to refugees, which includes, optimizing resources, money, and quality of human life. ReUnite uses AI recognition software to verify refugees when they reach a camp so that we can use an extensive database to help them find their families, get resources catered to them, and find new homes. As refugees relocate smart contracts via Ethereum will be used to create easy-to-understand, translatable, contracts that refugee sponsors and refugees can fully understand.  We wish to create an optimized cycle where the most lives are saved, and the right resources are given to those in need. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -37,11 +38,13 @@ At ReUnite we are aiming to make the transition into a new country as easy as po
 
 A more versatile interface for both users will encourage more people to come to the program. Our software aims to reduce the time taken to find a sponsor as well as create a system that finds the best match for the families based on their preferences and needs.
 
+**The main goals of ReUnite are Verification, Accessible Resources, and Finding Homes for refugees in need.**
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Verification
 
-> When refugees are first admitted they get a facial scan, and fingerprint scan and all the information that they are willing to give is collected to make a profile. The reliability of the facial recognition will be ensured by changing the background to increase the contrast when taking pictures with people with darker skin pigmentation.
+> When refugees are first admitted they get a facial scan, and fingerprint scan and all the information that they are willing to give is collected to make a profile. The reliability of the facial recognition will be ensured by changing the background to increase the contrast when taking pictures with people with darker skin pigmentation. At Reunite, Equity, Diverisity, and Inclusivness is our CORE values, so we will do everything in our power to insure all refugees that rely on us can recieve any aid they need.  
 
 > The Facial recognition software implements the Microsoft Azure Face API that delivers a state-of-the-art, low friction classification model. The Face API is highly secured and does not store any of the user data. It relies on enterprise-grade security and privacy applied to both the data and trained model. The facial data is compared with the government’s citizen image database, which is protected by external privacy measures. 
 
@@ -92,6 +95,11 @@ The stakeholders in this project are refugees, international refugee support org
 ## Contact
 
 Devpost Link: [https://devpost.com/software/reunite-lt7sur#updates](https://devpost.com/software/reunite-lt7sur#updates)
+
+**Figma Links**: 
+1: [https://www.figma.com/proto/Mz0HdKQ1ylButzP6j1OIJm/Face-Recognition?node-id=10%3A111&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A4] 
+
+2: [https://www.figma.com/proto/Z5JQxO1V8ishtjf8JptCs9/front-end---hack-the-globe?node-id=10%3A13&scaling=scale-down&page-id=0%3A1&starting-point-node-id=10%3A13'
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
