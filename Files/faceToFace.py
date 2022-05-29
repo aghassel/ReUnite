@@ -12,14 +12,14 @@ ENDPOINT = 'https://mycognitiveservicesresourcefacecomp.cognitiveservices.azure.
 face_client = FaceClient(ENDPOINT, CognitiveServicesCredentials(API_KEY))
 
 response_detected_faces = face_client.face.detect_with_stream(
-    image=open('.\images\mj1.jpg', 'rb'),
+    image=open('.\images\abdellah1.jpg', 'rb'),
     detection_model='detection_03',
     recognition_model='recognition_04',  
  )
 
 face_ids = [face.face_id for face in response_detected_faces]
 
-img_tim_duncan = open(r'.\images\mj2.jpg','rb')
+img_tim_duncan = open(r'.\images\abdellah2.jpg','rb')
 response_face_tim_duncan = face_client.face.detect_with_stream(
     image = img_tim_duncan,
     detection_model='detection_03',
@@ -36,7 +36,7 @@ matched_face_ids=face_client.face.find_similar(
 
 # face_ids = [face.face_id for face in response_detected_faces]
 
-# img_source = open('.\images\mj1.jpg', 'rb')
+# img_source = open('.\images\abdellah1.jpg', 'rb')
 # response_face_source = face_client.face.detect_with_stream(
 #     image=img_source,
 #     detection_model='detection_03',
