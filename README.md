@@ -1,9 +1,7 @@
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=AyOqGRjVtls">
     <img src = "/Images/slogan.png" width="314" height="300">   
-  </a>
   <h4 align="center"> By: Abdellah Ghassel, Shashank Ojha, Amir Rafati & Joshua Gonzales </h2>
   </div>
 
