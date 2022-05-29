@@ -62,11 +62,15 @@ Shipment Progress |  Services Provided
 
 ## Find a Home 
 
-Our website allows potential sponsors to apply for our program. It vets the potential sponsors and their available resources and matches them with potential refugees. The sponsors that have been through the background check can now choose from a pool of potential refugees and allow for a needs-based match. The private sponsorship of refugees in Canada has allowed Canadians to welcome more than 327,000 refugees since it was established in 1979. Over the past ten years, the Private Sponsorship of Refugees (PSR) program accounted for over 50 percent of resettled refugee arrivals in Canada. Our system allows for a smoother transition with sponsor families and allows refugees to be reinstalled sooner, reducing the need for permanent refugee settlements. In addition, the finalized contracts that are being used are encrypted Smart Contracts via the blockchain that allow for a smooth and easy agreement that is accessible to all and easy to understand.
-
+Our website allows potential sponsors to apply for our program. It vets the potential sponsors and their available resources and matches them with potential refugees. The sponsors that have been through the background check can now choose from a pool of potential refugees and allow for a needs-based match. The private sponsorship of refugees in Canada has allowed Canadians to welcome more than 327,000 refugees since it was established in 1979. Over the past ten years, the Private Sponsorship of Refugees (PSR) program accounted for over 50 percent of resettled refugee arrivals in Canada. 
 <p align="center">  
 <img src = "/Images/findahome.png" width="318" height="400">   
  </p>
+Our system allows for a smoother transition with sponsor families and allows refugees to be reinstalled sooner, reducing the need for permanent refugee settlements. In addition, the finalized contracts that are being used are encrypted Smart Contracts via the blockchain that allow for a smooth and easy agreement that is accessible to all and easy to understand.
+
+User Experience (Front-End) | Solidity (Back-End)
+:-------------------------:|:-------------------------:
+![](/Images/SC_frontEnd.png)  |  ![](/Images/SC_backEnd.png)
  
 <p align="right">(<a href="#top">back to top</a>)</p>
  
