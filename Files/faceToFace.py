@@ -68,4 +68,4 @@ matched_face_ids=face_client.face.find_similar(
 #     face_id1=matched_faces[0].face_id,
 #     face_id2='371e00f4-b5a5-4030-8473-3388d7016423'
 # )
-# print(face_verified.is_identical) #never gonna give you up , never gonna let you down never gonna stand around and desert you pappi 
+# print(face_verified.is_identical)
