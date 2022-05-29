@@ -40,7 +40,7 @@ A more versatile interface for both users will encourage more people to come to 
 
 ## Verification
 
-> When refugees are first admitted they get a facial scan, and fingerprint scan and all the information that they are willing to give is collected to make a profile. The reliability of the facial recognition will be ensured by changing the background to increase the contrast when taking pictures with people with darker skin pigmentation. At ReUnite, Equity, Diversity, and Inclusivness is our CORE values, so we will do everything in our power to insure all refugees that rely on us can recieve any aid they need.  
+> When refugees are first admitted they get a facial scan, and fingerprint scan and all the information that they are willing to give is collected to make a profile. The reliability of the facial recognition will be ensured by changing the background to increase the contrast when taking pictures with people with darker skin pigmentation. At ReUnite, Equity, Diversity, and Inclusiveness are our CORE values, so we will do everything in our power to ensure all refugees that rely on us can receive any aid they need.
 
 Facial Recognition Matching (Front-End) | Azure Face-to-Face API (Back-End)
 :-------------------------:|:-------------------------:
