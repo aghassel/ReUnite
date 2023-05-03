@@ -7,7 +7,7 @@ import requests
 from PIL import Image, ImageDraw, ImageFont
 
 credential = json.load(open('AzureCloudKeys.json'))
-API_KEY = '5fa48a8796664c4a8130b16c1d0215f3'
+API_KEY = 'N/A'
 ENDPOINT = 'https://mycognitiveservicesresourcefacecomp.cognitiveservices.azure.com/'
 face_client = FaceClient(ENDPOINT, CognitiveServicesCredentials(API_KEY))
 
